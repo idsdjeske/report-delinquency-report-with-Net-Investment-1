@@ -1,4 +1,3 @@
-USE [WFEFIL]
 GO
 
 /****** Object:  View [dbo].[V_RPT_DELINQUENCY]    Script Date: 6/18/2019 9:11:16 AM ******/
